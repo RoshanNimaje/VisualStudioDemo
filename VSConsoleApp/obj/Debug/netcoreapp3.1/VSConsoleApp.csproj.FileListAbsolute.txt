@@ -1,0 +1,14 @@
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\bin\Debug\netcoreapp3.1\VSConsoleApp.exe
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\bin\Debug\netcoreapp3.1\VSConsoleApp.deps.json
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\bin\Debug\netcoreapp3.1\VSConsoleApp.runtimeconfig.json
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\bin\Debug\netcoreapp3.1\VSConsoleApp.runtimeconfig.dev.json
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\bin\Debug\netcoreapp3.1\VSConsoleApp.dll
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\bin\Debug\netcoreapp3.1\VSConsoleApp.pdb
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\obj\Debug\netcoreapp3.1\VSConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\obj\Debug\netcoreapp3.1\VSConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\obj\Debug\netcoreapp3.1\VSConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\obj\Debug\netcoreapp3.1\VSConsoleApp.AssemblyInfo.cs
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\obj\Debug\netcoreapp3.1\VSConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\obj\Debug\netcoreapp3.1\VSConsoleApp.dll
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\obj\Debug\netcoreapp3.1\VSConsoleApp.pdb
+C:\Users\Roshan.Nimaje\source\repos\VSConsoleApp\obj\Debug\netcoreapp3.1\VSConsoleApp.genruntimeconfig.cache
